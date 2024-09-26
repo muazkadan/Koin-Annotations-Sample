@@ -25,8 +25,8 @@ Multiplatform application.
 
 Learn more
 about 
-- [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html),
-- [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform/#compose-multiplatform),
+- [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)
+- [Compose Multiplatform](https://github.com/JetBrains/compose-multiplatform/#compose-multiplatform)
 - [Kotlin/Wasm](https://kotl.in/wasm/)…
 - [Kotlin with Koin](https://insert-koin.io/docs/quickstart/kotlin)
 - [Kotlin with Koin Annotations](https://insert-koin.io/docs/quickstart/kotlin-annotations)
